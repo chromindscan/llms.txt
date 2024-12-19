@@ -9,7 +9,7 @@ This repository contains documentation and examples for adding Rell language sup
 3. Click on "Add New Docs"
 4. Add the following documentation URL:
    ```
-   https://raw.githubusercontent.com/chromindscan/llms.txt/refs/heads/main/RELL.md
+   https://raw.githubusercontent.com/chromindscan/llms.txt/refs/heads/main/llms.txt
    ```
 
 ## LICENSE
